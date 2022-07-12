@@ -1,0 +1,11 @@
+
+{
+    "type": "mysql",
+    "host": "autoneumen.com",
+    "port": 3306,
+    "username": "jprigos1_ventas",
+    "password": "ventas159753",
+    "database": "jprigos1_VentaLibre",
+    "entities": ["dist/**/*.entity{.ts,.js}"],
+    "synchronize": true
+}
